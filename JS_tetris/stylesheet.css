@@ -1,0 +1,15 @@
+.Playground{
+    background: gray;
+
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.test{
+    background: chartreuse;
+
+    position: relative;
+    width: 35px;
+    height: 35px;
+}
